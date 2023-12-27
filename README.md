@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KingThunder11
-- 👀 I’m interested in computer science in general and artificial intelligence.
+- 👀 I’m interested in computer science, specifically artificial intelligence and autonomous systems.
 - 🌱 I’m currently learning Java, MATLAB, C++, and ROS. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: email: cadenk@vt.edu or caden.c.king@gmail.com
