@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KingThunder11
-- 👀 I’m interested in data engineering and data science
-- 🌱 I’m currently learning Java, Python, and SQL. 
+- 👀 I’m interested in Cybersecurity.
+- 🌱 I’m currently learning python, java, C+ and cybersecurity concepts.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: email: cadenk@vt.edu or caden.c.king@gmail.com
 
